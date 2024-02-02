@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #ffb16d;
+  }
+
+h1 {
+    padding: 10px;
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-image: url("Marble\ Texture.jpeg");
+    background-repeat: repeat-x;
+}
