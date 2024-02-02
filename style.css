@@ -5,9 +5,8 @@
     background-color: #ffb16d;
   }
 
-h1 {
+h1 p {
     padding: 5px;
-    border: 1px solid black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
     background-image: url("Marble\ Texture.jpeg");
