@@ -5,14 +5,13 @@
 }
 
 #link-side-panel {
-    margin: 5px;
+    padding: 5px;
     float: left;
     width: 250px;
 }
 
 #main-panel {
     margin: 5px;
-    float: right;
 }
 
 body {
