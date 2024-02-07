@@ -2,21 +2,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #ffb16d;
-  }
-
-h1 p {
-    padding: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    background-image: url("Marble\ Texture.jpeg");
-    background-repeat: repeat-x;
 }
 
-#mainname {
+#link-side-panel {
+    margin: 5px;
     float: left;
+    width: 250px;
 }
 
-#links {
-    text-align: right;
+#main-panel {
+    margin: 5px;
+    float: right;
+}
+
+body {
+    background-color: bisque;
 }
