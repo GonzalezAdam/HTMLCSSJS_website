@@ -2,15 +2,41 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    list-style-type: none;
 }
 
 #link-side-panel {
-    padding: 5px;
+    position:fixed;
     float: left;
     width: 250px;
+    height: 100%;
+    justify-content: center;
+}
+
+.orange {
+    background-color: rgb(245, 179, 131);
+}
+
+#name-logo {
+    height: 150px;
+}
+
+#link-side-panel li {
+    height: 150px;
 }
 
 #main-panel {
+    margin-left: 250px;
+    padding: 0;
+}
+
+#splash-art {
+    height: 100%;
+    background: url('Splash-Art.JPG') no-repeat top center;
+}
+
+#main-panel li {
+    height: 1000px;
     margin: 5px;
 }
 
